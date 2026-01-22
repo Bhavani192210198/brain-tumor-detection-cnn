@@ -1,0 +1,11 @@
+# Ignore trained models
+*.h5
+*.keras
+
+# Ignore test images
+test_image.jpg
+test_folder/
+
+# Ignore cache files
+__pycache__/
+*.pyc
